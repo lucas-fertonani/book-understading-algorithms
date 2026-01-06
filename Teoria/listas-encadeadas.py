@@ -1,0 +1,1 @@
+#Listas encadeadas são listas que armezena cada elemento ao proximo item da lista

@@ -1,0 +1,1 @@
+# Os arrays são listas porém listas que você sabe quando acaba 
